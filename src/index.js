@@ -1,0 +1,1 @@
+console.log('Hello Firebase 9 from index.js : Hello Steve');
